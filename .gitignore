@@ -1,0 +1,8 @@
+/bootstrap/compiled.php
+.env.*.php
+.env.php
+.idea/
+node_modules/
+.git/
+.sass-cahce/
+
